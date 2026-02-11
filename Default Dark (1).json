@@ -1,7 +1,7 @@
 {
   "name": "old discord",
   "description": "blease",
-  "version": "4",
+  "version": "5",
   "authors": [
     {
       "name": "me",
@@ -28,7 +28,7 @@
     "BACKGROUND_SECONDARY_ALT": ["#323338"],
     "BACKGROUND_TERTIARY": ["#1a1b1e"],
     "BG_BASE_PRIMARY": ["#2b2d31"],
-    "BG_BACKDROP": ["#000000b2"],
+    "BG_BACKDROP": ["#1e1f23"],
     "BG_BASE_SECONDARY": ["#232428"],
     "BG_BASE_TERTIARY": ["#323338"],
     "HOME_BACKGROUND": ["#232428"],
